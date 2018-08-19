@@ -43,7 +43,6 @@ object Processor {
     Logger.getLogger("org").setLevel(Level.ERROR)
 
     val conf = new SparkConf().setAppName("EventStreamer")
-        .setMaster("local[*]")
     val sc = new SparkContext(conf)
 
     if(awsAccessKey != null && !awsAccessKey.isEmpty()){

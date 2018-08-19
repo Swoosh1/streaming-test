@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-json-streaming.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-json-streaming.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-json-streaming-build.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-json-streaming-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/streaming-test-build.iml" filepath="$PROJECT_DIR$/.idea/modules/streaming-test-build.iml" />
     </modules>
   </component>
 </project>
